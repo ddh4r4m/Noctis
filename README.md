@@ -1,6 +1,11 @@
 # Noctis
 Noctis KDE Theme
 
+### Requirements
+###### Lightly https://github.com/Luwx/LightlyShaders/
+###### Lightly Shaders https://github.com/Luwx/LightlyShaders/
+
+
 #### Look and Feel 
 <img src="https://i.imgur.com/t44kyoq.png">
 
