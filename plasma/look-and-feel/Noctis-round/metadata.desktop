@@ -10,4 +10,4 @@ X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/rkstrdee/Noctis
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1540593,kns://plasma-themes.knsrc/api.kde-look.org/1562762,kns://icons.knsrc/api.kde-look.org/1477945,kns://wallpaper.knsrc/api.kde-look.org/1541309,kns://wallpaper.knsrc/api.kde-look.org/1541305,kns://wallpaper.knsrc/api.kde-look.org/1562665,kns://wallpaper.knsrc/api.kde-look.org/1541302,kns://wallpaper.knsrc/api.kde-look.org/1541308,kns://sddmtheme.knsrc/api.kde-look.org/1214121
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1610049,kns://plasma-themes.knsrc/api.kde-look.org/1610052,kns://icons.knsrc/api.kde-look.org/1279924,kns://wallpaper.knsrc/api.kde-look.org/1610199

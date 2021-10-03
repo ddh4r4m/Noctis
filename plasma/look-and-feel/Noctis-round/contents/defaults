@@ -5,7 +5,7 @@ widgetStyle=Lightly
 ColorScheme=NoctisLightly
 
 [kdeglobals][Icons]
-Theme=TelaNoctis-noctis
+Theme=Tela
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
@@ -53,3 +53,5 @@ wobblywindowsEnabled=true
 BlurStrength=8
 NoiseStrength=2
 
+[Wallpaper]
+Image=Noctis

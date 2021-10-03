@@ -57,7 +57,7 @@ Item {
         width: imageSource.width + 2 // Subtract to prevent fringing
         height: width
         radius: width / 2
-        color: "#420ed2"
+        color: "#052529"
     }
 
 

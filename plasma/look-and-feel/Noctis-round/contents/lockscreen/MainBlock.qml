@@ -68,7 +68,7 @@ SessionManagementScreen {
             palette.text: "#C3C7D1"
             
             background: Rectangle {
-                color: "#420ed2"
+                color: "#052529"
                 opacity: 0.5
                 radius: parent.width / 2
                 height: 30
@@ -129,7 +129,7 @@ SessionManagementScreen {
                 radius: width / 2
                 rotation: -90
                 anchors.centerIn: parent
-                color: "#420ed2"
+                color: "#052529"
                
             }
 
